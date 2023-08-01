@@ -1,0 +1,8 @@
+#vscode files
+.vscode/
+
+#python files
+__pycache__/
+
+#db file
+file.json
